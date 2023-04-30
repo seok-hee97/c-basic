@@ -1,0 +1,31 @@
+-Pointer in C/C++ [Full Course]
+https://youtu.be/zuegQmMdy8M    
+
+
+Introduction to Pointer in C
+
+int - 4 byte
+char - 1 byte
+float - 4 byte
+
+
+about Memory (RAM)
+
+
+Pointer
+-varaibles that store
+-address og anotehr
+-varaibles
+
+
+Pointers - varaibles that store
+            address of other
+            varaibles
+
+            int a;  //integer
+            int *p; //Pointer to integer
+
+            char c; // charactrer
+            char *p0 //pointer to charactrer
+            double d // double
+            double *p1 //Pointer to doubles
